@@ -1,3 +1,6 @@
+# スクリーンショットは除外
+ScreenCapture/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
